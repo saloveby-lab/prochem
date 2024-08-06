@@ -1,3 +1,31 @@
 .navbar-light .main-menu li a.active {
 	color: #007bff;
 }
+
+.bg-green {
+	background-color: #2f5d62 !important;
+}
+
+.bg-green-subtle {
+	background-color: #a7c4bc !important;
+}
+
+.bg-green h1,
+p {
+	color: #fff;
+}
+
+.text-description {
+	color: #414040;
+	font-weight: 400;
+}
+
+ul.list-unstyled > li > span {
+	color: #303030;
+	display: inline-block;
+	font-weight: 400;
+	vertical-align: top;
+	width: 90%;
+	white-space: normal;
+	word-wrap: break-word;
+}

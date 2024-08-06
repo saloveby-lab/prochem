@@ -1,24 +1,24 @@
 <!--hero section start-->
 <section
-	class="hero-section ptb-120 min-vh-100 d-flex align-items-center bg-dark text-white position-relative overflow-hidden"
-	style="background: url('/images/page-header-bg.svg')no-repeat bottom right"
+	class="bg-dark hero-section overflow-hidden position-relative ptb-120 text-white"
+	style="background: url('/images/a-website/profile-front.jpeg')no-repeat bottom right"
 >
 	<div class="container">
 		<div class="row justify-content-between align-items-center">
 			<div class="col-lg-6">
 				<div class="hero-content-wrap">
-					<h5 class="text-warning">#1 Software Company In World</h5>
-					<h1 class="fw-bold display-5">Advanced Feature to Grow Your Business</h1>
+					<h5 class="text-warning">การอบรมและการฝึกอบรมที่ดีอย่างมีประสิทธิภาพ</h5>
+					<h1 class="fw-bold display-5">ให้ความรู้และความเข้าใจ</h1>
 					<p class="lead">
-						Proactively coordinate quality quality vectors vis-a-vis supply chains engage
-						client-centric web services.
+						เพื่อเพิ่มความเข้าใจในการจัดการเก็บรักษาวัตถุอันตราย
+						และเพิ่มความมั่นใจในการทำงานได้อย่างมีประสิทธิภาพ
 					</p>
 					<div class="action-btns mt-5">
-						<a href="request-demo.html" class="btn btn-primary me-3">Request For Demo</a>
-						<a href="about-us.html" class="btn btn-outline-light">Learn More</a>
+						<a href="request-demo.html" class="btn btn-primary me-3">เปิดจองหลักสูตร</a>
+						<a href="about-us.html" class="btn btn-outline-light">เพิ่มเติม</a>
 					</div>
 				</div>
-				<div class="row justify-content-lg-start mt-60">
+				<!-- <div class="row justify-content-lg-start mt-60">
 					<h6 class="text-white-70 mb-2">Our Top Clients:</h6>
 					<div class="col-4 col-sm-3 my-2 ps-lg-0">
 						<img src="/images/clients/client-1.svg" alt="client" class="img-fluid" />
@@ -29,7 +29,7 @@
 					<div class="col-4 col-sm-3 my-2">
 						<img src="/images/clients/client-3.svg" alt="client" class="img-fluid" />
 					</div>
-				</div>
+				</div> -->
 			</div>
 			<div class="col-lg-6 col-md-8 mt-5 mt-lg-0">
 				<div class="animated-img-wrap">
@@ -56,42 +56,20 @@
 </section>
 <!--hero section end-->
 
-<!--feature promo start-->
 <section class="promo-section ptb-120">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 col-md-10">
 				<div class="section-heading text-center">
-					<h2>We Help you Stay Connected</h2>
-					<p>
-						Dynamically initiate market positioning total linkage with clicks-and-mortar technology
-						procrastinate compelling data for markets.
+					<h2>เราช่วยให้คุณมีประสิทธิภาพมากขึ้น</h2>
+					<p class="text-description">
+						ช่วยเพิ่มความถูกต้องในการทำงาน ทำให้งานของคุณเป็นไปอย่างราบรื่น
+						และช่วยให้คุณมีประสิทธิภาพมากขึ้น และเพิ่มความมั่นใจในการทำงาน
 					</p>
 				</div>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-4 col-md-6">
-				<div
-					class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4"
-				>
-					<div class="promo-icon mb-32">
-						<i class="fas fa-wifi text-primary fa-3x"></i>
-					</div>
-					<div class="promo-info">
-						<h3 class="h5">Stay Connected</h3>
-						<p class="mb-0">
-							Interactively disintermediate resource maximizing portals vertical models maintainable
-							systems.
-						</p>
-					</div>
-					<!--pattern start-->
-					<div class="dot-shape-bg position-absolute z--1 left--40 top--40">
-						<img src="/images/shape/dot-big-square.svg" alt="shape" />
-					</div>
-					<!--pattern end-->
-				</div>
-			</div>
 			<div class="col-lg-4 col-md-6">
 				<div
 					class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4"
@@ -100,10 +78,9 @@
 						<i class="fas fa-user-friends text-success fa-3x"></i>
 					</div>
 					<div class="promo-info">
-						<h3 class="h5">Encourage Participation</h3>
+						<h3 class="h5">จัดฝึกอบรม</h3>
 						<p class="mb-0">
-							Interactively disintermediate resource maximizing portals vertical models maintainable
-							systems.
+							จัดหลักสูตรอบรมเพื่อเป็นการเตรียมความพร้อมสำหรับบุคลากรเฉพาะรับผิดชอบความปลอดภัยการเก็บรักษาวัตถุอันตราย
 						</p>
 					</div>
 				</div>
@@ -113,242 +90,119 @@
 					class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4"
 				>
 					<div class="promo-icon mb-32">
-						<i class="fas fa-bezier-curve text-danger fa-3x"></i>
+						<i class="fas fa-boxes-stacked text-danger fa-3x"></i>
+						<i class="fa-duotone fa-solid fa-warehouse-full text-danger fa-3x"></i>
 					</div>
 					<div class="promo-info">
-						<h3 class="h5">Build Connections</h3>
+						<h3 class="h5">จัดหาสถานที่เก็บรักษา</h3>
 						<p class="mb-0">
-							Interactively disintermediate resource maximizing portals vertical models maintainable
-							systems.
+							จัดหาสถานที่เก็บรักษาวัตถุอันตรายที่มีความปลอดภัยสูงสุด
+							และการจัดการวัตถุอันตรายอย่างถูกต้อง
 						</p>
 					</div>
-					<!--pattern start-->
 					<div class="dot-shape-bg position-absolute z--1 right--40 bottom--40">
 						<img src="/images/shape/dot-big-square.svg" alt="shape" />
 					</div>
-					<!--pattern end-->
 				</div>
 			</div>
-		</div>
-		<div class="customer-section pt-60">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-lg-8 col-12">
-						<div class="customer-logos-grid text-center">
-							<img
-								src="/images/clients/client-logo-1.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-2.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-3.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-4.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-5.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-6.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-7.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-							<img
-								src="/images/clients/client-logo-8.svg"
-								width="150"
-								alt="clients logo"
-								class="img-fluid p-1 px-md-2 p-lg-3 m-auto"
-							/>
-						</div>
-						<p class="text-center mt-5 mb-0 h6">
-							Trusted More than 25,00+ Companies Around the World
+			<div class="col-lg-4 col-md-6">
+				<div
+					class="promo-single position-relative text-center bg-white custom-shadow rounded-custom p-5 mb-4"
+				>
+					<div class="promo-icon mb-32">
+						<i class="fa-solid fa-handshake-simple text-primary fa-3x"></i>
+					</div>
+					<div class="promo-info">
+						<h3 class="h5">บริการและให้คำปรึกษา</h3>
+						<p class="mb-0">
+							ใบริการและห้คำแนะนำและปรึกษาเกี่ยวกับการจัดการเก็บสาร การตรวจสอบ
+							และการจัดการวัตถุอันตรายอย่างถูกต้อง
 						</p>
 					</div>
+					<div class="dot-shape-bg position-absolute z--1 left--40 top--40">
+						<img src="/images/shape/dot-big-square.svg" alt="shape" />
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--feature promo end-->
 
-<!--feature tab section start-->
-<section class="feature-tab-section ptb-120 bg-light-subtle">
+<section class="why-choose-us pt-60 pb-120 bg-green-subtle">
 	<div class="container">
-		<div class="row justify-content-center align-content-center">
-			<div class="col-md-10 col-lg-6">
-				<div class="section-heading text-center">
-					<h4 class="h5 text-primary">Features</h4>
-					<h2>Powerful Advanced Features</h2>
-					<p>
-						Dynamically initiate market positioning total linkage with clicks-and-mortar technology
-						progressively procrastinate compelling.
-					</p>
+		<div class="row justify-content-lg-between justify-content-center align-items-center">
+			<div class="col-lg-5 col-md-7 order-1 order-lg-0">
+				<div class="why-choose-img position-relative">
+					<img
+						src="/images/a-website/toxic-chemicals-concept.png"
+						class="img-fluid"
+						alt="duel-phone"
+					/>
 				</div>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<ul class="nav justify-content-center feature-tab-list-2 mb-0" id="nav-tab" role="tablist">
-					<li class="nav-item">
-						<a
-							class="nav-link active"
-							href="#tab-1"
-							data-bs-toggle="tab"
-							data-bs-target="#tab-1"
-							role="tab"
-							aria-selected="false"
-						>
-							AI & Data Science
-						</a>
-					</li>
-					<li class="nav-item">
-						<a
-							class="nav-link"
-							href="#tab-2"
-							data-bs-toggle="tab"
-							data-bs-target="#tab-2"
-							role="tab"
-							aria-selected="false"
-						>
-							Automation Power
-						</a>
-					</li>
-					<li class="nav-item">
-						<a
-							class="nav-link"
-							href="#tab-3"
-							data-bs-toggle="tab"
-							data-bs-target="#tab-3"
-							role="tab"
-							aria-selected="false"
-						>
-							Advanced Technology
-						</a>
-					</li>
-				</ul>
-				<div class="tab-content" id="nav-tabContent">
-					<div class="tab-pane fade pt-60 active show" id="tab-1" role="tabpanel">
-						<div class="row justify-content-center align-items-center justify-content-around">
-							<div class="col-lg-5">
-								<div class="feature-tab-info">
-									<h3>AI & Data Science</h3>
-									<p>
-										Continually network effective bandwidth whereas goal-oriented schemas.
-										Intrinsicly incentivize corporate synergy with accurate task bricks-and-clicks
-										leadership skills .
-									</p>
-									<p>
-										Conveniently develop innovative infomediaries for enabled functionalities.
-										Dynamically coordinate leading-edge after virtual potentialities drive
-										multidisciplinary infrastructures.
-									</p>
-									<a href="about-us.html" class="read-more-link text-decoration-none mt-4 d-block"
-										>Know More About Us
-										<i class="fas fa-arrow-right ms-2"></i></a
-									>
-								</div>
-							</div>
-							<div class="col-lg-5">
-								<img
-									src="/images/screen/widget-12.png"
-									alt="feature tab"
-									class="img-fluid mt-4 mt-lg-0 mt-xl-0"
-								/>
-							</div>
-						</div>
+			<div class="col-lg-6 col-md-12 order-0 order-lg-1">
+				<div class="why-choose-content">
+					<div class="mb-32">
+						<h2>งานที่ปรึกษา บริการ การบริหารจัดการสารเคมี วัตถุอันตรายและสินค้าอันตราย</h2>
+						<p class="text-description">
+							พัฒนาความรู้และสร้างความเข้าใจเกี่ยวกับการจัดเก็บ สารเคมี/วัตถุอันตราย อย่างปลอดภัย
+							และพัฒนาความรู้ความเข้าใจเกี่ยวกับข้อมูลที่เกี่ยวข้องกับสารเคมี/วัตถุอันตราย
+						</p>
 					</div>
-					<div class="tab-pane fade pt-60" id="tab-2" role="tabpanel">
-						<div class="row justify-content-center align-items-center justify-content-around">
-							<div class="col-lg-5">
-								<img
-									src="/images/screen/widget-8.png"
-									alt="feature tab"
-									class="img-fluid mb-4 mb-lg-0 mb-xl-0"
-								/>
-							</div>
-							<div class="col-lg-5">
-								<div class="feature-tab-info">
-									<h3>Automation Power</h3>
-									<p>
-										Conveniently develop innovative infomediaries for enabled functionalities.
-										Dynamically coordinate leading-edge corporate synergy after virtual
-										potentialities.
-									</p>
-									<p>
-										Continually network effective bandwidth whereas goal-oriented schemas.
-										Intrinsicly with accurate meta-services. Rapidiously parallel task
-										bricks-and-clicks leadership skills with revolutionary.
-									</p>
-									<a href="about-us.html" class="read-more-link text-decoration-none mt-4 d-block"
-										>Know More About Us
-										<i class="fas fa-arrow-right ms-2"></i></a
-									>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="tab-pane fade pt-60" id="tab-3" role="tabpanel">
-						<div class="row justify-content-center align-items-center justify-content-around">
-							<div class="col-lg-5">
-								<div class="feature-tab-info">
-									<h3>Advanced Technology</h3>
-									<p>
-										Intrinsicly incentivize corporate synergy with accurate meta-services.
-										Rapidiously parallel task bricks-and-clicks. Leadership skills with
-										revolutionary convergence conveniently develop.
-									</p>
-									<p>
-										Continually expedite business systems without premier testing procedures
-										architect principle-centered e-tailers for progressive maintain open-source
-										solutions.
-									</p>
-									<a href="about-us.html" class="read-more-link text-decoration-none mt-4 d-block"
-										>Know More About Us
-										<i class="fas fa-arrow-right ms-2"></i></a
-									>
-								</div>
-							</div>
-							<div class="col-lg-5">
-								<img
-									src="/images/screen/widget-11.png"
-									alt="feature tab"
-									class="img-fluid mt-4 mt-lg-0 mt-xl-0"
-								/>
-							</div>
-						</div>
-					</div>
+					<ul class="list-unstyled d-flex flex-wrap list-two-col">
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>การบริหารจัดการ สินค้าอันตราย</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>กฎหมายที่เกี่ยวข้อง</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>ประเมินความเสี่ยง และการหาแนวทางเพื่อลดความเสี่ยง</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>ดำเนินการด้านใบอนุญาต นำเข้า ส่งออก ครอบครอง</span>
+						</li>
+
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span> การจําแนกสารเคมีตามระบบการจัดเก็บตามประกาศกระทรวงอุตสาหกรรม </span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>จัดเตรียมข้อมูลเพื่อรองรับการตรวจประเมินระบบ ISO 9001, 14001, 45001</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>จัดทำแผนฉุกเฉิน และฝึกซ้อมทีมฉุกเฉิน</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>จัดหาอุปกรณ์ระงับเหตุฉุกเฉินที่เหมาะสม</span>
+						</li>
+
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>
+								ออกแบบสถานที่จัดเก็บสารเคมีอันตราย อาคารคลังสินค้า สถานที่จัดเก็บภายนอกอาคาร
+							</span>
+						</li>
+						<li class="py-1">
+							<i class="fas fa-check-circle me-2 text-primary"></i>
+							<span>
+								การจำแนกสารเคมีตามหลักสากล UN Recommendations และความเสี่ยงของ สารเคมีแต่ละประเภท
+							</span>
+						</li>
+					</ul>
 				</div>
 			</div>
 		</div>
 	</div>
 </section>
-<!--feature tab section end-->
 
-<!--feature tab section start-->
 <section class="feature-section-two ptb-120">
 	<div class="container">
 		<div class="row align-items-center justify-content-lg-between justify-content-center">
@@ -413,400 +267,8 @@
 		</div>
 	</div>
 </section>
-<section class="why-choose-us pt-60 pb-120">
-	<div class="container">
-		<div class="row justify-content-lg-between justify-content-center align-items-center">
-			<div class="col-lg-5 col-md-7 order-1 order-lg-0">
-				<div class="why-choose-img position-relative">
-					<img src="/images/feature-hero-img-2.svg" class="img-fluid" alt="duel-phone" />
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12 order-0 order-lg-1">
-				<div class="why-choose-content">
-					<div class="mb-32">
-						<h2>We run all kinds of services in form of software</h2>
-						<p>
-							Conceptualize multimedia based ROI and wireless intellectual capital. Dramatically
-							seize visionary technologies whereas interactive value.
-						</p>
-					</div>
-					<ul class="list-unstyled d-flex flex-wrap list-two-col">
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Thought leadership
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Personal branding
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Modernized prospecting
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Better win rates
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Showcasing success
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Sales compliance
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Manage smartly
-						</li>
-						<li class="py-1">
-							<i class="fas fa-check-circle me-2 text-primary"></i>Communicate fast
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--feature tab section end-->
 
-<!--cat start-->
-<section class="cta-section bg-dark text-white ptb-120 position-relative overflow-hidden">
-	<div class="container">
-		<div class="row align-items-center justify-content-between">
-			<div class="col-lg-5 col-md-12">
-				<div class="position-relative z-5">
-					<h2>Actionable Reports to Grow your Business</h2>
-					<p>
-						Conveniently syndicate client-centric users for transparent scenarios. Uniquely evolve
-						partnerships rather than cross-platform interfaces.
-					</p>
-					<a href="#" class="btn btn-primary mt-4">Get Start Now</a>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12">
-				<div class="row align-items-center justify-content-center position-relative z-2">
-					<div class="col-md-6">
-						<div class="cta-card rounded-custom text-center shadow p-5 bg-white my-4">
-							<h3 class="display-5 fw-bold">9/10</h3>
-							<p class="mb-0">Overall our customer satisfaction score</p>
-						</div>
-						<div class="cta-card rounded-custom text-center shadow p-5 bg-white my-4">
-							<h3 class="display-5 fw-bold">15K+</h3>
-							<p class="mb-0">Happy customer in worldwide</p>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="cta-card rounded-custom text-center shadow p-5 bg-white">
-							<h3 class="display-5 fw-bold">95%</h3>
-							<p class="mb-0">Our Customer customer satisfaction score</p>
-						</div>
-					</div>
-					<div class="bg-circle rounded-circle position-absolute z--1">
-						<img src="/images/shape/blob.svg" alt="feature image" class="img-fluid rounded" />
-					</div>
-				</div>
-			</div>
-		</div>
-		<div
-			class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light left-30"
-		></div>
-		<div class="bg-circle rounded-circle circle-shape-1 position-absolute bg-warning left-5"></div>
-	</div>
-</section>
-<!--cat end-->
-
-<!--our work process start-->
-<section class="work-process ptb-120">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-md-10 col-lg-6">
-				<div class="section-heading text-center">
-					<h4 class="h5 text-primary">Process</h4>
-					<h2>We Follow Our Work Process</h2>
-					<p>
-						Conveniently mesh cooperative services via magnetic outsourcing. Dynamically grow
-						functionalized value whereas accurate e-commerce.
-					</p>
-				</div>
-			</div>
-		</div>
-		<div class="row d-flex align-items-center">
-			<div class="col-md-6 col-lg-3">
-				<div
-					class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0"
-				>
-					<div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-						<span class="h2 mb-0 text-primary fw-bold">1</span>
-					</div>
-					<h3 class="h5">Research</h3>
-					<p class="mb-0">Uniquely pursue restore efficient for initiatives expanded.</p>
-				</div>
-			</div>
-			<div class="dots-line first"></div>
-			<div class="col-md-6 col-lg-3">
-				<div
-					class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0"
-				>
-					<div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-						<span class="h2 mb-0 text-primary fw-bold">2</span>
-					</div>
-					<h3 class="h5">Designing</h3>
-					<p class="mb-0">Restore efficient human pursue for compelling initiatives.</p>
-				</div>
-			</div>
-			<div class="dots-line first"></div>
-			<div class="col-md-6 col-lg-3">
-				<div
-					class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0 mb-md-0"
-				>
-					<div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-						<span class="h2 mb-0 text-primary fw-bold">3</span>
-					</div>
-					<h3 class="h5">Building</h3>
-					<p class="mb-0">Continually enhance pursue compelling initiatives enhance.</p>
-				</div>
-			</div>
-			<div class="dots-line first"></div>
-			<div class="col-md-6 col-lg-3">
-				<div class="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-0">
-					<div class="process-icon border border-light bg-custom-light rounded-custom p-3">
-						<span class="h2 mb-0 text-primary fw-bold">4</span>
-					</div>
-					<h3 class="h5">Deliver</h3>
-					<p class="mb-0">Uniquely for compelling initiatives expanded interactive.</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--our work process end-->
-
-<!--customer review tab section start-->
-<section class="testimonial-section ptb-120 bg-light-subtle">
-	<div class="container">
-		<div class="row justify-content-center align-content-center">
-			<div class="col-md-10 col-lg-6">
-				<div class="section-heading text-center">
-					<h4 class="h5 text-primary">Testimonial</h4>
-					<h2>What They Say About Us</h2>
-					<p>
-						Uniquely promote adaptive quality vectors rather than stand-alone e-markets pontificate
-						alternative architectures with accurate schemas.
-					</p>
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-12">
-				<div class="position-relative w-100">
-					<div class="swiper testimonialSwiper">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide">
-								<div class="border border-2 p-5 rounded-custom position-relative">
-									<img
-										src="/images/testimonial/quotes-dot.svg"
-										alt="quotes"
-										width="100"
-										class="img-fluid position-absolute left-0 top-0 z--1 p-3"
-									/>
-									<div class="d-flex mb-32 align-items-center">
-										<img
-											src="/images/testimonial/1.jpg"
-											class="img-fluid me-3 rounded"
-											width="60"
-											alt="user"
-										/>
-										<div class="author-info">
-											<h6 class="mb-0">Mr.Rupan Oberoi</h6>
-											<small>Founder and CEO at Amaara Herbs</small>
-										</div>
-									</div>
-									<blockquote>
-										<h6>The Best Template You Got to Have it!</h6>
-										Globally network long-term high-impact schemas vis-a-vis distinctive e-commerce cross-media
-										infrastructures rather than ethical
-									</blockquote>
-									<ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-									</ul>
-									<img
-										src="/images/testimonial/quotes.svg"
-										alt="quotes"
-										class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4"
-									/>
-								</div>
-							</div>
-							<div class="swiper-slide">
-								<div class="border border-2 p-5 rounded-custom position-relative">
-									<img
-										src="/images/testimonial/quotes-dot.svg"
-										alt="quotes"
-										width="100"
-										class="img-fluid position-absolute left-0 top-0 z--1 p-3"
-									/>
-									<div class="d-flex mb-32 align-items-center">
-										<img
-											src="/images/testimonial/3.jpg"
-											class="img-fluid me-3 rounded"
-											width="60"
-											alt="user"
-										/>
-										<div class="author-info">
-											<h6 class="mb-0">Oberoi R.</h6>
-											<small>CEO at Herbs</small>
-										</div>
-									</div>
-									<blockquote>
-										<h6>Embarrassed by the First Version.</h6>
-										Dynamically create innovative core competencies with effective best practices promote
-										innovative infrastructures.
-									</blockquote>
-									<ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-									</ul>
-									<img
-										src="/images/testimonial/quotes.svg"
-										alt="quotes"
-										class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4"
-									/>
-								</div>
-							</div>
-
-							<div class="swiper-slide">
-								<div class="border border-2 p-5 rounded-custom position-relative">
-									<img
-										src="/images/testimonial/quotes-dot.svg"
-										alt="quotes"
-										width="100"
-										class="img-fluid position-absolute left-0 top-0 z--1 p-3"
-									/>
-									<div class="d-flex mb-32 align-items-center">
-										<img
-											src="/images/testimonial/2.jpg"
-											class="img-fluid me-3 rounded"
-											width="60"
-											alt="user"
-										/>
-										<div class="author-info">
-											<h6 class="mb-0">Mr.Rupan Oberoi</h6>
-											<small>Founder and CEO</small>
-										</div>
-									</div>
-									<blockquote>
-										<h6>Amazing Quiety template!</h6>
-										Appropriately negotiate interactive niches rather than parallel strategic theme incubate
-										premium total linkage areas.
-									</blockquote>
-									<ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-									</ul>
-									<img
-										src="/images/testimonial/quotes.svg"
-										alt="quotes"
-										class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4"
-									/>
-								</div>
-							</div>
-							<div class="swiper-slide">
-								<div class="border border-2 p-5 rounded-custom position-relative">
-									<img
-										src="/images/testimonial/quotes-dot.svg"
-										alt="quotes"
-										width="100"
-										class="img-fluid position-absolute left-0 top-0 z--1 p-3"
-									/>
-									<div class="d-flex mb-32 align-items-center">
-										<img
-											src="/images/testimonial/4.jpg"
-											class="img-fluid me-3 rounded"
-											width="60"
-											alt="user"
-										/>
-										<div class="author-info">
-											<h6 class="mb-0">Joan Dho</h6>
-											<small>Founder and CTO</small>
-										</div>
-									</div>
-									<blockquote>
-										<h6>Best Template for SAAS Company!</h6>
-										Dynamically create innovative core competencies with effective best practices promote
-										innovative infrastructures.
-									</blockquote>
-									<ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-									</ul>
-									<img
-										src="/images/testimonial/quotes.svg"
-										alt="quotes"
-										class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4"
-									/>
-								</div>
-							</div>
-
-							<div class="swiper-slide">
-								<div class="border border-2 p-5 rounded-custom position-relative">
-									<img
-										src="/images/testimonial/quotes-dot.svg"
-										alt="quotes"
-										width="100"
-										class="img-fluid position-absolute left-0 top-0 z--1 p-3"
-									/>
-									<div class="d-flex mb-32 align-items-center">
-										<img
-											src="/images/testimonial/5.jpg"
-											class="img-fluid me-3 rounded"
-											width="60"
-											alt="user"
-										/>
-										<div class="author-info">
-											<h6 class="mb-0">Ranu Mondal</h6>
-											<small>Lead Developer</small>
-										</div>
-									</div>
-									<blockquote>
-										<h6>It is undeniably good!</h6>
-										Rapidiously supply client-centric e-markets and maintainable processes progressively
-										engineer
-									</blockquote>
-									<ul class="review-rate mb-0 mt-2 list-unstyled list-inline">
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-										<li class="list-inline-item"><i class="fas fa-star text-warning"></i></li>
-									</ul>
-									<img
-										src="/images/testimonial/quotes.svg"
-										alt="quotes"
-										class="position-absolute right-0 bottom-0 z--1 pe-4 pb-4"
-									/>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="swiper-nav-control">
-						<span class="swiper-button-next"></span>
-						<span class="swiper-button-prev"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-<!--customer review tab section end-->
-
-<!--integration section start-->
-<section class="integration-section ptb-120">
+<section class="integration-section ptb-120 bg-green-subtle">
 	<div class="container">
 		<div class="row align-items-center justify-content-lg-between">
 			<div class="col-lg-6 col-md-12">
@@ -861,11 +323,7 @@
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/facebook.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/facebook.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
@@ -881,21 +339,13 @@
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/atlassian.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/atlassian.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/dropbox-2.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/dropbox-2.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
@@ -911,21 +361,13 @@
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/erecruiter.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/erecruiter.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/evernote.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/evernote.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
@@ -978,31 +420,19 @@
 
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/instagram.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/instagram.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/linkedin.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/linkedin.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
 						<li>
 							<div class="single-integration bg-white">
-								<img
-									src="/images/integations/mailchimp.png"
-									alt="integration"
-									class="img-fluid"
-								/>
+								<img src="/images/integations/mailchimp.png" alt="integration" class="img-fluid" />
 								<h6 class="mb-0 mt-4">Brand Name</h6>
 							</div>
 						</li>
@@ -1018,7 +448,6 @@
 		</div>
 	</div>
 </section>
-<!--integration section end-->
 
 <!--blog section start-->
 <section class="home-blog-section ptb-120 bg-light-subtle">
@@ -1039,7 +468,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom mb-4 mb-lg-0">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-1.jpg" alt="article" class="img-fluid" />
+						<img src="/images/detail/detail_demo.jpeg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">

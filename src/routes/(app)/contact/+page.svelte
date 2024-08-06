@@ -4,7 +4,7 @@
 
 <!--page header section start-->
 <section
-	class="page-header position-relative overflow-hidden ptb-120 bg-dark"
+	class="page-header position-relative overflow-hidden ptb-120 bg-green"
 	style="background: url('/images/page-header-bg.svg')no-repeat bottom left"
 >
 	<div class="container">
@@ -52,11 +52,11 @@
 					<div class="contact-promo-info mb-4">
 						<h5>Email Us</h5>
 						<p>
-							Simple drop us an email at <strong>hellothemetags@gmail.com</strong>
+							Simple drop us an email at <strong>info@prochemtc.com</strong>
 							and you'll receive a reply within 24 hours
 						</p>
 					</div>
-					<a href="mailto:hellothemetags@gmail.com" class="btn btn-primary mt-auto">Email Us</a>
+					<a href="mailto:info@prochemtc.com" class="btn btn-primary mt-auto">Email Us</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">

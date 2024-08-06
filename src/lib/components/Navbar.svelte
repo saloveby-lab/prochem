@@ -10,7 +10,7 @@
 	<nav class="navbar navbar-expand-xl navbar-light sticky-header">
 		<div class="container d-flex align-items-center justify-content-lg-between position-relative">
 			<a
-				href="index.html"
+				href="/"
 				class="navbar-brand d-flex align-items-center mb-md-0 text-decoration-none px-0"
 			>
 				<!-- <img src="/images/logo-white.png" alt="logo" class="img-fluid logo-white" /> -->
@@ -40,7 +40,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="/consultancy" class="nav-link" class:active={pageCurrent === 'about-us'}>
+						<a href="/consultancy" class="nav-link" class:active={pageCurrent === 'consultancy'}>
 							ที่ปรึกษา
 						</a>
 					</li>
@@ -50,17 +50,8 @@
 						</a>
 					</li>
 					<li>
-						<a href="/service" class="nav-link" class:active={pageCurrent === 'service'}>
-							บริการอื่นๆ
-						</a>
-					</li>
-					<li>
-						<a
-							href="/interesting-information"
-							class="nav-link"
-							class:active={pageCurrent === 'interesting-information'}
-						>
-							สาระน่ารู้
+						<a href="/news" class="nav-link" class:active={pageCurrent === 'news'}>
+							ข่าวสารน่ารู้
 						</a>
 					</li>
 					<li>
