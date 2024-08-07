@@ -13,14 +13,17 @@
 							<h3>Contact</h3>
 							<ul class="list-unstyled footer-nav-list mb-lg-0">
 								<li class="text-decoration-none">สำนักงานใหญ่</li>
-								<li class="text-decoration-none">1/11 หมู่ 3 ถ.พัฒนานิคม</li>
-								<li class="text-decoration-none">ต.นวนคร อ. แหลมฉบัง</li>
-								<li class="text-decoration-none">ชลบุรี 11110</li>
+								<li class="text-decoration-none">254/90 หมู่ 5</li>
+								<li class="text-decoration-none">ต.บึง อ.ศรีราชา</li>
+								<li class="text-decoration-none">จ.ชลบุรี 20230</li>
 								<li class="text-decoration-none">
 									<i class="fas fa-phone-alt pe-2" /> 038-213-000
 								</li>
 								<li class="text-decoration-none">
-									<i class="fa-solid fa-envelope pe-2" /> info@prochemtc.com
+									<i class="fa-solid fa-envelope pe-2" /> tcprochem@gmail.com
+								</li>
+								<li class="text-decoration-none">
+									<i class="fa-solid fa-envelope pe-2" /> Porraphat.a@prochemtc.com
 								</li>
 							</ul>
 						</div>

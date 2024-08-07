@@ -1,4 +1,11 @@
-<!--hero section start-->
+<script lang="ts">
+	//
+</script>
+
+<svelte:head>
+	<title>หน้าแรก</title>
+ </svelte:head>
+
 <section
 	class="bg-dark hero-section overflow-hidden position-relative ptb-120 text-white"
 	style="background: url('/images/a-website/profile-front.jpeg')no-repeat bottom right"

@@ -2,6 +2,10 @@
 	//
 </script>
 
+<svelte:head>
+	<title>ฝึกอบรม</title>
+</svelte:head>
+
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
 	style="background: url('/images/page-header-bg.svg')no-repeat bottom left"
@@ -101,7 +105,7 @@
 						href="integration-single.html"
 						class="position-relative text-decoration-none connected-app-single border border-2 promo-border-hover mt-4 transition-base bg-white rounded-custom d-block overflow-hidden p-5"
 					>
-						<div class="position-relative connected-app-content ">
+						<div class="position-relative connected-app-content">
 							<h5>SDS และการใช้งาน</h5>
 							<p class="mb-0 text-muted">
 								Globally engage tactical niche markets rather than client-based competently generate

@@ -2,6 +2,10 @@
 	//
 </script>
 
+<svelte:head>
+	<title>ข่าวสารน่ารู้</title>
+</svelte:head>
+
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
 	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"
@@ -91,7 +95,6 @@
 							upside and opportunity. In the other reality, you’ll continue to see the gap between
 							your standard of living and those at the top grow more and more.
 						</p>
-
 					</div>
 				</div>
 			</div>
@@ -140,7 +143,6 @@
 							upside and opportunity. In the other reality, you’ll continue to see the gap between
 							your standard of living and those at the top grow more and more.
 						</p>
-
 					</div>
 				</div>
 			</div>

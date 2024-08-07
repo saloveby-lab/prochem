@@ -2,6 +2,10 @@
 	//
 </script>
 
+<svelte:head>
+	<title>ที่ปรึกษา</title>
+</svelte:head>
+
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
 	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"

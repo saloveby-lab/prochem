@@ -2,6 +2,10 @@
 	//
 </script>
 
+<svelte:head>
+	<title>ติดต่อเรา</title>
+</svelte:head>
+
 <!--page header section start-->
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
