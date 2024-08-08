@@ -17,7 +17,10 @@
 								<li class="text-decoration-none">ต.บึง อ.ศรีราชา</li>
 								<li class="text-decoration-none">จ.ชลบุรี 20230</li>
 								<li class="text-decoration-none">
-									<i class="fas fa-phone-alt pe-2" /> 038-213-000
+									<i class="fas fa-phone-alt pe-2" /> 085-394-3991
+								</li>
+								<li class="text-decoration-none">
+									<i class="fas fa-phone-alt pe-2" /> 081-628-7672
 								</li>
 								<li class="text-decoration-none">
 									<i class="fa-solid fa-envelope pe-2" /> tcprochem@gmail.com
@@ -35,12 +38,24 @@
 							<div class="footer-single-col">
 								<h3>เมนู</h3>
 								<ul class="list-unstyled footer-nav-list mb-lg-0">
-									<li class="text-decoration-none">หน้าแรก</li>
-									<li class="text-decoration-none">เกี่ยวกับเรา</li>
-									<li class="text-decoration-none">ที่ปรึกษา</li>
-									<li class="text-decoration-none">การฝึกอบรม</li>
-									<li class="text-decoration-none">ข่าวสารน่ารู้</li>
-									<li class="text-decoration-none">ติด่อเรา</li>
+									<li>
+										<a href="/" class="text-decoration-none"> หน้าแรก </a>
+									</li>
+									<li>
+										<a href="/about-us" class="text-decoration-none"> เกี่ยวกับเรา </a>
+									</li>
+									<li>
+										<a href="/consultancy" class="text-decoration-none"> ที่ปรึกษา </a>
+									</li>
+									<li>
+										<a href="/training" class="text-decoration-none"> การฝึกอบรม </a>
+									</li>
+									<li>
+										<a href="/news" class="text-decoration-none"> ข่าวสารน่ารู้ </a>
+									</li>
+									<li>
+										<a href="/contact" class="text-decoration-none"> ติดต่อเรา </a>
+									</li>
 								</ul>
 							</div>
 						</div>
