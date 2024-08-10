@@ -118,7 +118,7 @@
 				>
 					<div class="promo-icon mb-32">
 						<i class="fa-solid fa-handshake-simple text-primary fa-3x"></i>
-					</div>ปไ
+					</div>
 					<div class="promo-info">
 						<h3 class="h5">บริการและให้คำปรึกษา</h3>
 						<p class="mb-0">
