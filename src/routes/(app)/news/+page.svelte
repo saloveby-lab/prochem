@@ -8,16 +8,15 @@
 
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
-	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"
+	style="background: url('/images/a-website/bg-news.png')no-repeat bottom right"
 >
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-md-12">
 				<h1 class="display-5 fw-bold">ข่าวสารน่ารู้</h1>
-				<p class="lead">Interesting news</p>
+				<p class="lead">เรามีข่าวสารต่างๆมาอัพเดทใหม่ๆ เพื่อเพิ่มความรู้และประสบการณ์ใหม่ของท่าน</p>
 			</div>
 		</div>
-		<div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5" />
 	</div>
 </section>
 

@@ -8,244 +8,205 @@
 
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
-	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"
+	style="background: url('/images/a-website/bg-header-consultancy.png')no-repeat bottom right"
 >
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-md-12">
 				<h1 class="display-5 fw-bold">ที่ปรึกษา</h1>
-				<p class="lead">Consultancy</p>
+				<p class="lead">
+					เราสามารถให้คำปรึกษาในเรื่องต่าง การให้บริการทั้งในเรื่องการจัดอบรมเพิ่มความรู้
+					หาคลังเก็บสารเคมี และงานเอกสารต่างๆ
+				</p>
 			</div>
 		</div>
-		<div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5" />
 	</div>
 </section>
 
-<section class="feature-section ptb-120">
+<section class="services-icon ptb-120">
 	<div class="container">
-		<div class="row align-content-center justify-content-center">
-			<div class="col-lg-6 col-md-12">
-				<div class="section-heading mb-5">
-					<h2>การบริหารจัดการวัตถุอันตราย (การนำเข้า ส่งออก ครอบครอง การจัดทำใบอนุญาต)</h2>
-					<p>
-						Uniquely benchmark multifunctional catalysts for change via stand-alone manufactured
-						products brand scalable products. Synergistically network orthogonal infomediaries
-						through pandemic initiatives.
+		<div class="row justify-content-center">
+			<div class="col-lg-9 col-md-10">
+				<div class="section-heading text-center">
+					<h2>การอบรมและการบริการ</h2>
+					<p class="text-description text-break">
+						เราดำเนินงานให้คำปรึกษาในหลากหลายสาขาที่เกี่ยวข้องกับโรงงานอุตสาหกรรมและระบบขนส่ง
+						เราเชื่อว่าสิ่งที่สำคัญที่สุดในการให้คำแนะนำที่ดีนั้น
+						เริ่มต้นมาจากการทำความเข้าใจในปัญหาหรือโจทย์ของลูกค้า
+						ศึกษาแนวทางและระบบการทำงานของลูกค้าจนเข้าใจอย่างลึกซึ้ง
+						เพื่อหาช่องทางในการพัฒนาและปรับปรุงได้อย่างมีประสิทธิภาพ
+						สามารถใช้งานได้จริงและอยู่ในงบประมาณที่สมเหตุสมผล เรามีชื่อเสียงในการให้ความมั่นใจได้ว่า
+						อาคาร พื้นที่โรงงาน เครื่องจักร ทรัพย์สินต่าง ๆ และกระบวนการทำงาน ระบบการผลิต
+						การกำจัดของเสีย และการบริหารจัดการ
+						จะได้รับการประเมินและปรับแต่งให้มีประสิทธิภาพและทำงานประสานงานกันอย่างราบรื่น
+						บ่อยครั้งที่เราให้คำแนะนำที่เกินกว่าข้อกำหนดและกฎหมายของประเทศไทย
+						ประกอบกับหลักฐานที่จำเป็นต่อการตัดสินใจที่ถูกต้อง
+						เพื่อต่อยอดธุรกิจและเสริมศักยภาพให้กับทรัพยากรที่มีอยู่ พร้อมทั้งเพิ่มรายได้อย่างยั่งยืน
 					</p>
 				</div>
-				<div class="single-feature d-flex mb-4">
-					<span class="fas fa-bezier-curve fa-2x text-primary"></span>
-					<div class="ms-4 mt-2">
-						<h5>Pixel Perfect Design</h5>
-						<p>
-							Credibly syndicate enterprise total linkage whereas cost effective innovate state of
-							the art data without multifunctional.
+				,
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center mt-3 border">
+					<div class="service-icon icon-center mb-3">
+						<img
+							src="/images/a-website/consultancy/safety-helmet.png"
+							alt="service icon"
+							width="100"
+							height="100"
+						/>
+					</div>
+					<div class="service-info-wrap">
+						<h3 class="h5">ความปลอดภัยการทำงาน</h3>
+						<p class="text-description">
+							ความปลอดภัยในการทำงานกับสารเคมี และการตอบโต้เหตุฉุกเฉินสารเคมีรั่วไหล (ตามกฎหมาย)
 						</p>
 					</div>
 				</div>
-				<div class="single-feature d-flex mb-4">
-					<span class="fas fa-code fa-2x text-primary"></span>
-					<div class="ms-4 mt-2">
-						<h5>Development Execution</h5>
-						<p>
-							Synergistically communicate excellent deliverables rather than enterprise-wide value
-							quickly architect emerging interfaces.
+			</div>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center mt-3 border">
+					<div class="service-icon icon-center mb-3">
+						<img
+							src="/images/a-website/consultancy/truck.png"
+							alt="service icon"
+							width="100"
+							height="100"
+						/>
+					</div>
+					<div class="service-info-wrap">
+						<h3 class="h5">ความปลอดภัยการขนส่ง</h3>
+						<p class="text-description">
+							ความปลอดภัยในการขนส่งสารเคมี และวัตถุอันตราย
+							การตอบโต้เหตุฉุกเฉินสารเคมีรั่วไหลจากการขนส่ง
 						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-8">
-				<div class="feature-shape-img position-relative mt-5 mt-lg-0">
-					<div class="img-bg-shape position-absolute">
-						<img src="/images/integations/shape.svg" alt="integations" />
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center mt-3 border">
+					<div class="service-icon icon-center mb-5">
+						<img
+							src="/images/a-website/consultancy/responsibility.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
 					</div>
-					<img
-						src="/images/detail/demo-2.jpeg"
-						class="img-fluid skewed-img-right rounded-custom shadow-lg"
-						alt="softtent"
-					/>
+					<div class="service-info-wrap">
+						<h3 class="h5">ความรับผิดชอบ</h3>
+						<p class="text-description">ติวเข้มบุคลากรเฉพาะรับผิดชอบความปลอดภัยวัตถุอันตราย</p>
+					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-</section>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/conversation.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
+					</div>
+					<div class="feature-info-wrap">
+						<h3 class="h5">การตอบโต้</h3>
+						<p class="text-description">
+							การตอบโต้เหตุฉุกเฉินสารเคมีรั่วไหล หรือการสื่อสารเพื่อให้เข้าใจตรงกัน
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/import-export.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
+					</div>
+					<div class="feature-info-wrap">
+						<h3 class="h5">การนำเข้าและส่งออก</h3>
+						<p class="text-description">การนำเข้า ส่งออกสินค้าอันตรายอย่างมืออาชีพ (IMDG Code)</p>
+					</div>
+				</div>
+			</div>
 
-<section class="feature-section-two ptb-120 bg-light-subtle">
-	<div class="container">
-		<div class="row align-items-center justify-content-center">
-			<div class="col-lg-6 col-md-12">
-				<div class="section-heading">
-					<h2>ประเมินพื้นที่เก็บรักษาสารเคมีและวัตถุอันตราย ตามกฎหมาย (กรมโรงงานอุตสาหกรรม)</h2>
-					<p>
-						Quickly incubate functional channels with multidisciplinary architectures.
-						Authoritatively fabricate intermandated formulate exceptional innovation strategic theme
-						areas whereas business e-business.
-					</p>
-					<ul class="list-unstyled mt-5">
-						<li class="d-flex align-items-start mb-4">
-							<div class="icon-box bg-primary rounded me-4">
-								<i class="fas fa-bezier-curve text-white"></i>
-							</div>
-							<div class="icon-content">
-								<h3 class="h5">Pixel Perfect Design</h3>
-								<p>
-									Progressively foster enterprise-wide systems whereas equity invested web-readiness
-									harness installed.
-								</p>
-							</div>
-						</li>
-						<li class="d-flex align-items-start mb-4">
-							<div class="icon-box bg-danger rounded me-4">
-								<i class="fas fa-fingerprint text-white"></i>
-							</div>
-							<div class="icon-content">
-								<h3 class="h5">Unique &amp; Minimal Design</h3>
-								<p>
-									Dramatically administrate progressive metrics without error-free globally simplify
-									standardized.
-								</p>
-							</div>
-						</li>
-					</ul>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/storage.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
+					</div>
+					<div class="feature-info-wrap">
+						<h3 class="h5">ออกแบบสถานที่จัดเก็บ</h3>
+						<p class="text-description">
+							ออกแบบสถานที่จัดเก็บสารเคมีอันตราย อาคารคลังสินค้า สถานที่จัดเก็บภายนอกอาคาร
+						</p>
+					</div>
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-7">
-				<div class="feature-img-wrap position-relative d-flex flex-column align-items-end">
-					<ul class="img-overlay-list list-unstyled position-absolute">
-						<li class="d-flex align-items-center bg-white rounded shadow-sm p-3">
-							<i class="fas fa-check bg-primary text-white rounded-circle"></i>
-							<h6 class="mb-0">Create a Free Account</h6>
-						</li>
-						<li class="d-flex align-items-center bg-white rounded shadow-sm p-3">
-							<i class="fas fa-check bg-primary text-white rounded-circle"></i>
-							<h6 class="mb-0">Install Our Tracking Pixel</h6>
-						</li>
-						<li class="d-flex align-items-center bg-white rounded shadow-sm p-3">
-							<i class="fas fa-check bg-primary text-white rounded-circle"></i>
-							<h6 class="mb-0">Start Tracking your Website</h6>
-						</li>
-					</ul>
-					<img
-						src="/images/detail/demo-1.jpeg"
-						alt="feature image"
-						class="img-fluid rounded-custom"
-					/>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
 
-<section class="feature-section soft-bg ptb-120">
-	<div class="container">
-		<div class="row align-items-center justify-content-center">
-			<div class="col-lg-6 col-md-12">
-				<div class="feature-subtitle">
-					<h2>
-						ประเมินความเสี่ยงการเก็บรักษาสารเคมีและวัตถุ อันตราย และข้อเสนอแนะเพื่อลดความเสี่ยง
-					</h2>
-					<p>
-						Holisticly exploit ethical internal or "organic" sources before cross-media process
-						improvements. Dynamically generate distinctive infomediaries whereas business core
-						competencies expedite intermandated benefits.
-					</p>
-				</div>
-				<div class="row mt-5">
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">20+</h6>
-						<h3 class="h5">Advanced Panel</h3>
-						<p>Progressively seize corporate through convergence mesh dynamic.</p>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/sds.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
 					</div>
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">35+</h6>
-						<h3 class="h5">Report Metrics</h3>
-						<p>Rapidiously conceptualize process-centric before client-centered enterprise.</p>
+					<div class="feature-info-wrap">
+						<h3 class="h5">SDS</h3>
+						<p class="text-description">
+							บริการ แปลเอกสาร SDS ทั้งในรูปแบบ สอ.1 สำหรับส่งรายงานกรมสวัสดิฯ
+						</p>
 					</div>
 				</div>
 			</div>
-			<div class="col-lg-6 col-md-10">
-				<div class="feature-img mt-5 mt-lg-0">
-					<img
-						src="/images/detail/detail_demo3.jpeg"
-						class="img-fluid rounded-custom shadow"
-						alt="feature image"
-					/>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-<section class="feature-section soft-bg ptb-120 bg-light-subtle">
-	<div class="container">
-		<div class="row align-items-center justify-content-center">
-			<div class="col-lg-6 col-md-10">
-				<div class="feature-img mt-5 mt-lg-0">
-					<img
-						src="/images/detail/detail_demo4.jpeg"
-						class="img-fluid rounded-custom shadow"
-						alt="feature image"
-					/>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-12">
-				<div class="feature-subtitle">
-					<h2>การจัดทำระบบ ISO</h2>
-					<p>
-						Holisticly exploit ethical internal or "organic" sources before cross-media process
-						improvements. Dynamically generate distinctive infomediaries whereas business core
-						competencies expedite intermandated benefits.
-					</p>
-				</div>
-				<div class="row mt-5">
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">20+</h6>
-						<h3 class="h5">Advanced Panel</h3>
-						<p>Progressively seize corporate through convergence mesh dynamic.</p>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/ghs.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
 					</div>
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">35+</h6>
-						<h3 class="h5">Report Metrics</h3>
-						<p>Rapidiously conceptualize process-centric before client-centered enterprise.</p>
+					<div class="feature-info-wrap">
+						<h3 class="h5">GHS</h3>
+						<p class="text-description">
+							จัดทำฉลาก GHS รวมถึง ฉลากติดสถานที่ปฏิบัติงานเพื่อสื่อสารและเข้าใจให้ตรงกัน
+						</p>
 					</div>
 				</div>
 			</div>
-		</div>
-	</div>
-</section>
-
-<section class="feature-section soft-bg ptb-120">
-	<div class="container">
-		<div class="row align-items-center justify-content-center">
-			<div class="col-lg-6 col-md-12">
-				<div class="feature-subtitle">
-					<h2>ทำ Application บริหารจัดการสินค้าอันตรายใน สถานประกอบการ</h2>
-					<p>
-						Holisticly exploit ethical internal or "organic" sources before cross-media process
-						improvements. Dynamically generate distinctive infomediaries whereas business core
-						competencies expedite intermandated benefits.
-					</p>
-				</div>
-				<div class="row mt-5">
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">20+</h6>
-						<h3 class="h5">Advanced Panel</h3>
-						<p>Progressively seize corporate through convergence mesh dynamic.</p>
+			<div class="col-lg-4 col-md-6 p-0">
+				<div class="single-service p-lg-5 p-4 text-center border">
+					<div class="service-icon icon-center">
+						<img
+							src="/images/a-website/consultancy/iso.png"
+							alt="service icon"
+							width="70"
+							height="70"
+						/>
 					</div>
-					<div class="col-12 col-md-6">
-						<h6 class="fw-bold display-5 text-primary mb-4">35+</h6>
-						<h3 class="h5">Report Metrics</h3>
-						<p>Rapidiously conceptualize process-centric before client-centered enterprise.</p>
+					<div class="feature-info-wrap">
+						<h3 class="h5">การตรวจประเมินระบบ</h3>
+						<p class="text-description">
+							บริการจัดเตรียมข้อมูลเพื่อรองรับการตรวจประเมินระบบ ISO 9001, 14001, 45001 ให้ถูกต้อง
+						</p>
 					</div>
-				</div>
-			</div>
-			<div class="col-lg-6 col-md-10">
-				<div class="feature-img mt-5 mt-lg-0">
-					<img
-						src="/images/detail/demo-5.jpeg"
-						class="img-fluid rounded-custom shadow"
-						alt="feature image"
-					/>
 				</div>
 			</div>
 		</div>

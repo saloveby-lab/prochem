@@ -8,18 +8,18 @@
 
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
-	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"
+	style="background: url('/images/a-website/bg-about-us.png')no-repeat bottom right"
 >
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8 col-md-12">
 				<h1 class="display-5 fw-bold">เกี่ยวกับเรา</h1>
 				<p class="lead">
-					About Us
+					บริษัท Prochemtc เป็นบริษัทที่มีความเชี่ยวชาญในการให้บริการด้านการฝึกอบรม
+					และให้คำปรึกษาด้านการบริหารจัดการสารเคมี วัตถุอันตราย และสินค้าอันตราย
 				</p>
 			</div>
 		</div>
-		<div class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5" />
 	</div>
 </section>
 
@@ -50,7 +50,7 @@
 	</div>
 </section>
 
-<section class="image-feature pt-60 pb-120">
+<section class="image-feature pt-60 pb-120 bg-green-subtle">
 	<div class="container">
 		<div class="row justify-content-between align-items-center">
 			<div class="col-lg-5 col-12 order-lg-1">

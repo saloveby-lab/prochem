@@ -9,21 +9,18 @@
 <!--page header section start-->
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
-	style="background: url('/images/page-header-bg.svg')no-repeat bottom left"
+	style="background: url('/images/a-website/bg-contact-us.png')no-repeat bottom right"
 >
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-12">
-				<h1 class="display-5 fw-bold">Contact Us</h1>
+				<h1 class="display-5 fw-bold">ติดต่อเรา</h1>
 				<p class="lead">
-					Seamlessly actualize client-based users after out-of-the-box value data through
-					frictionless expertise.
+					เพื่อเพิ่มประสบการณ์การใช้งานของคุณ หากคุณมีคำถามหรือข้อสงสัยใดๆ
+					โปรดอย่าลังเลที่จะติดต่อเรา
 				</p>
 			</div>
 		</div>
-		<div
-			class="bg-circle rounded-circle circle-shape-3 position-absolute bg-dark-light right-5"
-		></div>
 	</div>
 </section>
 <!--page header section end-->
@@ -54,13 +51,13 @@
 				>
 					<span class="fas fa-envelope fa-3x text-primary"></span>
 					<div class="contact-promo-info mb-4">
-						<h5>Email Us</h5>
+						<h5>ทางอีเมล</h5>
 						<p>
-							Simple drop us an email at <strong>info@prochemtc.com</strong>
-							and you'll receive a reply within 24 hours
+							ง่ายๆ เพียงส่งอีเมลถึงเราที่ <strong>tcprochem@gmail.com</strong>
+							และคุณจะได้รับการตอบกลับภายใน 24 ชั่วโมง
 						</p>
 					</div>
-					<a href="mailto:info@prochemtc.com" class="btn btn-primary mt-auto">Email Us</a>
+					<a href="mailto:tcprochem@gmail.com" class="btn btn-primary mt-auto">ติดต่อทางอีเมล</a>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -69,13 +66,14 @@
 				>
 					<span class="fas fa-phone fa-3x text-primary"></span>
 					<div class="contact-promo-info mb-4">
-						<h5>Give us a call</h5>
+						<h5>โทรหาเรา</h5>
 						<p>
-							Give us a ring.Our Experts are standing by <strong>monday to friday</strong> from
-							<strong>9am to 5pm EST.</strong>
+							เรามีผู้ประสานงานคอยรับบริการ <strong>วันจันทร์ ถึง วันศุกร์</strong> ตั้งแต่
+							<strong>9.00 ถึง 17.00</strong>
 						</p>
 					</div>
-					<a href="tel:00-976-561-008" class="btn btn-link mt-auto">00-976-561-008</a>
+					<a href="tel:085-394-3991" class="btn btn-link mt-auto">085-394-3991</a>
+					<a href="tel:081-628-7672" class="btn btn-link mt-auto">081-628-7672</a>
 				</div>
 			</div>
 		</div>
