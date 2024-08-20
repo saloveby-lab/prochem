@@ -12,7 +12,7 @@
 >
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-md-12">
+			<div class="col-lg-6 col-md-12">
 				<h1 class="display-5 fw-bold">ฝึกอบรม</h1>
 				<p class="lead">
 					เราจะแชร์ประสบการณ์การฝึกอบรม เพื่อให้ได้ลองเข้าชมเพื่อดูว่าเราได้ให้ความรู้

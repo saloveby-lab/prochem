@@ -12,7 +12,7 @@
 >
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-md-12">
+			<div class="col-lg-6 col-md-12">
 				<h1 class="display-5 fw-bold">ข่าวสารน่ารู้</h1>
 				<p class="lead">เรามีข่าวสารต่างๆมาอัพเดทใหม่ๆ เพื่อเพิ่มความรู้และประสบการณ์ใหม่ของท่าน</p>
 			</div>

@@ -12,7 +12,7 @@
 >
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-md-12">
+			<div class="col-lg-6 col-md-12">
 				<h1 class="display-5 fw-bold">ที่ปรึกษา</h1>
 				<p class="lead">
 					เราสามารถให้คำปรึกษาในเรื่องต่าง การให้บริการทั้งในเรื่องการจัดอบรมเพิ่มความรู้

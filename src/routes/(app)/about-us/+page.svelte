@@ -12,7 +12,7 @@
 >
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-8 col-md-12">
+			<div class="col-lg-6 col-md-12">
 				<h1 class="display-5 fw-bold">เกี่ยวกับเรา</h1>
 				<p class="lead">
 					บริษัท Prochemtc เป็นบริษัทที่มีความเชี่ยวชาญในการให้บริการด้านการฝึกอบรม
