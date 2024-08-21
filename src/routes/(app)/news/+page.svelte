@@ -8,7 +8,7 @@
 
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-green"
-	style="background: url('/images/a-website/bg-news.png')no-repeat bottom right"
+	style="background: url('/images/a-website/bg-news.png')no-repeat center right"
 >
 	<div class="container">
 		<div class="row">
