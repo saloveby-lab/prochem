@@ -1,5 +1,8 @@
 <script lang="ts">
-	//
+	let data = {
+		email: '',
+		password: ''
+	};
 </script>
 
 <div class="main-wrapper">
@@ -27,13 +30,15 @@
 											id="email"
 											required
 											aria-label="email"
+											bind:value={data.email}
 										/>
 									</div>
 								</div>
 								<div class="col-sm-12">
-									<label for="password" class="mb-1"
-										>Password <span class="text-danger">*</span></label
-									>
+									<label for="password" class="mb-1">
+										Password
+										<span class="text-danger">*</span>
+									</label>
 									<div class="input-group mb-3">
 										<input
 											type="password"

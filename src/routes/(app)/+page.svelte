@@ -210,7 +210,7 @@
 	</div>
 </section>
 
-<section class="feature-section-two ptb-120">
+<!-- <section class="feature-section-two ptb-120">
 	<div class="container">
 		<div class="row align-items-center justify-content-lg-between justify-content-center">
 			<div class="col-lg-6 col-md-12">
@@ -273,9 +273,9 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
-<section class="integration-section ptb-120 bg-green-subtle">
+<!-- <section class="integration-section ptb-120 bg-green-subtle">
 	<div class="container">
 		<div class="row align-items-center justify-content-lg-between">
 			<div class="col-lg-6 col-md-12">
@@ -297,7 +297,6 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="integration-wrapper position-relative w-100">
-					<!--animated shape start-->
 					<ul class="position-absolute animate-element parallax-element shape-service z--1">
 						<li class="layer" data-depth="0.03">
 							<img
@@ -314,7 +313,6 @@
 							/>
 						</li>
 					</ul>
-					<!--animated shape end-->
 					<ul class="integration-list list-unstyled mb-0">
 						<li>
 							<div class="single-integration bg-white">
@@ -454,10 +452,10 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <!--blog section start-->
-<section class="home-blog-section ptb-120 bg-light-subtle">
+<!-- <section class="home-blog-section ptb-120 bg-light-subtle">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-6 col-md-12">
@@ -602,5 +600,5 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 <!--blog section end-->
