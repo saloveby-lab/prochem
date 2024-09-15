@@ -1,5 +1,9 @@
 <script lang="ts">
-	//
+	import type { PageData } from './$types';
+
+	let data: PageData;
+
+	// $: ({ contents } = data);
 </script>
 
 <section
@@ -39,22 +43,22 @@
 							</tr>
 						</thead>
 						<tbody>
-							<tr>
-								<td>1</td>
-								<td>Mark</td>
-								<td>Otto</td>
-								<td>@mdo</td>
-								<td></td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>1</td>
-								<td>Mark</td>
-								<td>Otto</td>
-								<td>@mdo</td>
-								<td></td>
-								<td></td>
-							</tr>
+							{#if data.contents.length === 0}
+								<tr>
+									<td colspan="6" class="text-center">ไม่พบข้อมูล</td>
+								</tr>
+							{:else}
+								{#each data.contents as content}
+									<tr>
+										<td>1</td>
+										<td>Mark</td>
+										<td>Otto</td>
+										<td>@mdo</td>
+										<td></td>
+										<td></td>
+									</tr>
+								{/each}
+							{/if}
 						</tbody>
 					</table>
 				</div>

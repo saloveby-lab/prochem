@@ -1,8 +1,11 @@
 <script lang="ts">
+	export let form: any;
+
 	let data = {
 		email: '',
 		password: ''
 	};
+	let errorMessage = '';
 </script>
 
 <div class="main-wrapper">
@@ -18,7 +21,7 @@
 						<img src="/images/a-website/logo.jpg" alt="logo" class="img-fluid" style="width: 40%" />
 					</a>
 					<div class="register-wrap p-5 bg-light-subtle shadow rounded-custom">
-						<form action="#" class="mt-4 register-form">
+						<form action="POST" class="mt-4 register-form">
 							<div class="row">
 								<div class="col-sm-12">
 									<label for="email" class="mb-1">Email <span class="text-danger">*</span></label>
@@ -50,6 +53,9 @@
 										/>
 									</div>
 								</div>
+								{#if form?.error}
+									<p style="color: red;">{form.error}</p>
+								{/if}
 								<div class="col-12">
 									<button type="submit" class="btn btn-primary mt-3 d-block w-100">Submit</button>
 								</div>
