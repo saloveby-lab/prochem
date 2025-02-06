@@ -43,7 +43,7 @@
 			<div class="col-lg-6 col-12">
 				<div class="feature-img-holder mt-4 mt-lg-0 mt-xl-0">
 					<!-- svelte-ignore a11y-img-redundant-alt -->
-					<img src="/images/img/about-us-1.jpg" class="img-fluid" alt="image-about-us-1" />
+					<img src="/images/about-us-1.jpg" class="img-fluid" alt="image-about-us-1" />
 				</div>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 			<div class="col-lg-6 col-12">
 				<div class="feature-img-holder mt-4 mt-lg-0 mt-xl-0">
 					<!-- svelte-ignore a11y-img-redundant-alt -->
-					<img src="/images/img/about-us-3.jpg" class="img-fluid" alt="image-about-us-3" />
+					<img src="/images/about-us-3.jpg" class="img-fluid" alt="image-about-us-3" />
 				</div>
 			</div>
 		</div>

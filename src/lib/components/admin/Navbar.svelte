@@ -1,11 +1,26 @@
 <script lang="ts">
+	import { goto } from '$app/navigation';
 	import { page } from '$app/stores';
 
-	// Get the current page
 	$: pageCurrent = $page.url.pathname.split('/').pop();
+
+	async function handleLogout() {
+		const response = await fetch('/api/logout', {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json'
+			}
+		});
+
+		const result = await response.json();
+
+		if (result.success) {
+			// Redirect to login page after successful logout
+			goto('/');
+		}
+	}
 </script>
 
-<!--header section start-->
 <header class="main-header w-100 z-10">
 	<nav class="navbar navbar-expand-xl navbar-light sticky-header">
 		<div class="container d-flex align-items-center justify-content-lg-between position-relative">
@@ -41,21 +56,13 @@
 							ผู้ใช้งาน
 						</a>
 					</li>
-					<!-- <li>
-						<a href="/news" class="nav-link" class:active={pageCurrent === 'news'}>
-							ข่าวสารน่ารู้
-						</a>
-					</li>
-					<li>
-						<a href="/contact" class="nav-link" class:active={pageCurrent === 'contact'}>
-							ติดต่อเรา
-						</a>
-					</li> -->
 				</ul>
 			</div>
 
 			<div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block">
-				<a class="btn btn-link text-decoration-none me-2" href="/login">ออกจากระบบ</a>
+				<a class="btn btn-link text-decoration-none me-2" href="#" on:click={handleLogout}>
+					ออกจากระบบ
+				</a>
 			</div>
 		</div>
 	</nav>
@@ -95,37 +102,10 @@
 						ผู้ใช้งาน
 					</a>
 				</li>
-				<!-- <li>
-					<a
-						href="/training"
-						class="nav-link"
-						class:active={pageCurrent === 'training'}
-						role="button"
-					>
-						การฝึกอบรม
-					</a>
-				</li>
-				<li class="nav-item">
-					<a href="/news" class="nav-link" class:active={pageCurrent === 'news'} role="button">
-						ข่าวสารน่ารู้
-					</a>
-				</li>
-				<li class="nav-item">
-					<a
-						href="/contact"
-						class="nav-link"
-						class:active={pageCurrent === 'contact'}
-						role="button"
-					>
-						ติดต่อเรา
-					</a>
-				</li> -->
 			</ul>
 			<div class="action-btns mt-4 ps-3">
-				<a href="login.html" class="btn btn-primary me-2">Sign In</a>
+				<a class="btn btn-primary me-2" href="#" on:click={handleLogout}> ออกจากระบบ </a>
 			</div>
 		</div>
 	</div>
-	<!--offcanvas menu end-->
 </header>
-<!--header section end-->

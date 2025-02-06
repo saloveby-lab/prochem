@@ -1,7 +1,7 @@
 <script lang="ts">
 	//
 </script>
-ƒ
+
 <section
 	class="page-header position-relative overflow-hidden ptb-120 bg-dark"
 	style="background: url('assets/img/page-header-bg.svg')no-repeat bottom left"

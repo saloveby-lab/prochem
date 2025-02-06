@@ -52,7 +52,7 @@
 					</ul>
 					<!--animated shape end-->
 					<img
-						src="/images/screen/animated-screen-1.svg"
+						src="/images/animated-screen-1.svg"
 						alt="shape"
 						class="position-relative img-fluid"
 					/>
@@ -108,7 +108,7 @@
 						</p>
 					</div>
 					<div class="dot-shape-bg position-absolute z--1 right--40 bottom--40">
-						<img src="/images/shape/dot-big-square.svg" alt="shape" />
+						<img src="/images/dot-big-square.svg" alt="shape" />
 					</div>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 						</p>
 					</div>
 					<div class="dot-shape-bg position-absolute z--1 left--40 top--40">
-						<img src="/images/shape/dot-big-square.svg" alt="shape" />
+						<img src="/images/dot-big-square.svg" alt="shape" />
 					</div>
 				</div>
 			</div>

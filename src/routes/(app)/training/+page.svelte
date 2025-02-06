@@ -151,7 +151,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-4.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -174,7 +174,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/4.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"
@@ -192,7 +192,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-5.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -215,7 +215,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/5.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"
@@ -233,7 +233,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-6.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -256,7 +256,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/6.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"
@@ -274,7 +274,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-7.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -297,7 +297,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/1.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"
@@ -315,7 +315,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-8.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -338,7 +338,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/3.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"
@@ -356,7 +356,7 @@
 			<div class="col-lg-4 col-md-6">
 				<div class="single-article rounded-custom my-3">
 					<a href="blog-single.html" class="article-img">
-						<img src="/images/blog/blog-9.jpg" alt="article" class="img-fluid" />
+						<img src="/images/blog-4.jpg" alt="article" class="img-fluid" />
 					</a>
 					<div class="article-content p-4">
 						<div class="article-category mb-4 d-block">
@@ -379,7 +379,7 @@
 							<div class="d-flex align-items-center pt-4">
 								<div class="avatar">
 									<img
-										src="/images/testimonial/2.jpg"
+										src="/images/4.jpg"
 										alt="avatar"
 										width="40"
 										class="img-fluid rounded-circle me-3"

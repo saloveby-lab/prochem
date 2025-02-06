@@ -1158,7 +1158,6 @@ jQuery(function ($) {
 
   //    dark light mood
   var setDarkMode = (active = false) => {
-    console.log(active);
     var wrapper = document.querySelector(":root");
     if (active) {
       wrapper.setAttribute("data-bs-theme", "dark");

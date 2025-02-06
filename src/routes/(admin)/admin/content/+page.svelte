@@ -29,7 +29,7 @@
 				<div class="support-article-wrap">
 					<div class="d-flex align-items-center justify-content-sm-between">
 						<h2>เนื้อหา</h2>
-						<a class="btn btn-primary" href="/request-demo">สร้างเนื้อหา</a>
+						<a class="btn btn-primary" href="/admin/content/create">สร้างเนื้อหา</a>
 					</div>
 					<table class="table table-striped table-hover border-top mt-1">
 						<thead>
@@ -43,7 +43,7 @@
 							</tr>
 						</thead>
 						<tbody>
-							{#if data.contents.length === 0}
+							<!-- {#if data.contents.length === 0}
 								<tr>
 									<td colspan="6" class="text-center">ไม่พบข้อมูล</td>
 								</tr>
@@ -58,7 +58,7 @@
 										<td></td>
 									</tr>
 								{/each}
-							{/if}
+							{/if} -->
 						</tbody>
 					</table>
 				</div>

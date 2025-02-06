@@ -58,7 +58,7 @@
 			</div>
 
 			<div class="action-btns text-end me-5 me-lg-0 d-none d-md-block d-lg-block">
-				<a class="btn btn-link text-decoration-none me-2" href="/login">Sign In</a>
+				<a class="btn btn-link text-decoration-none me-2" href="/login">เข้าสู่ระบบ</a>
 			</div>
 		</div>
 	</nav>
@@ -125,7 +125,7 @@
 				</li>
 			</ul>
 			<div class="action-btns mt-4 ps-3">
-				<a href="login.html" class="btn btn-primary me-2">Sign In</a>
+				<a href="/login" class="btn btn-primary me-2">เข้าสู่ระบบ</a>
 			</div>
 		</div>
 	</div>

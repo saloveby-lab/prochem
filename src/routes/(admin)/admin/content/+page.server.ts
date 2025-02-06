@@ -1,16 +1,18 @@
-import prisma from '$lib/prisma';
+import { redirect } from '@sveltejs/kit';
 import type { PageServerLoad } from './$types';
 
-export const load = (async () => {
-    const response = await prisma.users.findMany({
-        // where: { published: true },
-        // include: { user: true },
-    });
-	// const response = await prisma.contents.findMany({
-	// 	// where: { published: true },
-	// 	include: { user: true },
-	// 	orderBy: { createdAt: 'desc' }
-	// });
+export const load: PageServerLoad = async ({ locals }) => {
+	// ตรวจสอบว่ามีผู้ใช้ล็อกอินอยู่หรือไม่
+	if (!locals.user) {
+		// ถ้าไม่มี ให้ redirect ไปหน้า login
+		throw redirect(302, '/login');
+	}
 
-	return { contents: response };
-}) satisfies PageServerLoad;
+	// ถ้ามีผู้ใช้ล็อกอิน ดำเนินการต่อไป
+	// คุณสามารถโหลดข้อมูล content หรือข้อมูลอื่นๆ ที่จำเป็นได้ที่นี่
+
+	return {
+		user: locals.user
+		// ส่งข้อมูลอื่นๆ ที่ต้องการไปยังหน้า
+	};
+};
